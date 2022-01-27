@@ -1,25 +1,11 @@
-### Advancing Machine and Human Cognition 
->## Skills:
-> **Machine Learning Libraries:**
->>> * TensorFlow
->>> * PyTorch
->>> * OpenCV 
->>> * Scikit-Image 
->>> * Scikit-Learn 
->>> * NumPy 
->>> * Pandas
->
-> **Computer Vision Models:**: 
->>> * Vision Transformers 
->>> * Convolutional Neural Networks'
+### Advancing Machine and Human Cognition
+##### Becoming a language agnostic programmmer and computer vision vision.
 
-> **Machine Learning Algorithms**
->>'Multi Layer Perceptions', 'Logistics Regression', 'Random Forest', 'K Means Clustering'
->
->**Markup Languages**
->>> * 'CSS', 'HTML', 'LaTeX'
->
->**Programming Languages**
->>* 'Python', 'R', 'BASH', 'Currently learning C++'
 
-</span>
+|**Libraries**                  |**Learning**                 |**Languages**             |
+|-------------------------------|-----------------------------|--------------------------|
+|PyTorch                        |Vision Transformers          |Python                    |
+|TensorFlow                     |CNN Classification           |R                         |
+|Scikit-Learn                   |CNN for restoration          |BASH                      |
+|Scikit-Image                   |Logistic Regression (etc..)  |Currently learning C++    |
+|Pandas/Numpy                   |           (...)             |          (...)           |
