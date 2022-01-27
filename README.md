@@ -1,5 +1,5 @@
 ### Advancing Machine and Human Cognition
-##### Becoming a language agnostic programmmer and computer vision vision.
+##### Becoming a language agnostic programmmer and computer vision researcher.
 
 
 |**Libraries**                  |**Learning**                 |**Languages**             |
