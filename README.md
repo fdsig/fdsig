@@ -1,12 +1,13 @@
-### Aspiring to Advancing Machine and Human Cognition
-##### Becoming a language agnostic programmmer and computer vision researcher.
+### Software projects within ML. 
 
-#### some things that I can do quite well
 
-|**Libraries**                  |**Learning**                 |**Languages**             |
+#### Some things that I can do quite well but am of course still continuously learning (because each domain is very large):
+
+|**Libraries**                  |**Learning(Machine)**        |**Languages**             |
 |-------------------------------|-----------------------------|--------------------------|
 |PyTorch                        |Vision Transformers          |Python                    |
 |TensorFlow                     |CNN Classification           |R                         |
 |Scikit-Learn                   |CNN for restoration          |BASH                      |
-|Scikit-Image                   |Logistic Regression (etc..)  |                          |
+|Open CV                        |Various Trad. ML Algs.       |                          |
 |Pandas/Numpy                   |           (...)             |          (...)           |
+
