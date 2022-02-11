@@ -1,4 +1,4 @@
-### Making Software for Machine Learning.
+### Mostly Machine Learning.
 
 ![](https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif)
 
@@ -12,7 +12,7 @@
 |Open CV                        |Various Trad. ML Algs.       |                          |
 |Pandas/Numpy                   |           (...)             |          (...)           |
 
-Some things that I am at an earlier stage of learnind as part of continuous professional development and an ambition to becoming a language agnostic developer:
+Some things that I am at an earlier stage of learnind as part of continuous development and an ambition to becoming a language agnostic programmer:
 
 |**Libraries**                  |**Learning(Machine)**        |**Languages**  ↓          |
 |-------------------------------|-----------------------------|--------------------------|
