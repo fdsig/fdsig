@@ -20,3 +20,11 @@ Some things that I am at an earlier stage of learnind as part of continuous deve
 |                               | Vison tranforers (seg.)     |java                      |
 
 I also know my way around a server/unix/linux and have an interest in getting things to run on resource limited hardware.
+
+<details>
+<summary>Heading</summary>
+    + markdown list 1
+        + nested list 1
+        + nested list 2
+    + markdown list 2
+</details>
