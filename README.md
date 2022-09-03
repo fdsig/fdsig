@@ -17,7 +17,6 @@ Some things that I am at an earlier stage of learnind as part of continuous deve
 |**Libraries**                  |**Learning(Machine)**        |**Languages**  ↓          |
 |-------------------------------|-----------------------------|--------------------------|
 |PyTorch3D                      | Reinforcemnt Learning       |C++                       |
-|                               | Vison tranforers (seg.)     |java                      |
 
 I also know my way around a server/unix/linux and have an interest in getting things to run on resource limited hardware.
 
