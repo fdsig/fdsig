@@ -1,6 +1,4 @@
 ## AI & ML
 
-![fridasprite_lg](https://github.com/user-attachments/assets/93f11b0f-1eb9-4976-979a-2f881670f220)
-
-
+![fridasprite_blank](https://github.com/user-attachments/assets/301d7ef6-6c4a-4d42-8fa9-849730e16ee2)
 
